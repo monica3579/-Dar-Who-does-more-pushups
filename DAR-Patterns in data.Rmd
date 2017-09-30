@@ -42,9 +42,14 @@ I will make a box plot for the graphical method and use favstats for the numeric
 <!--You have both graphical and numerical methods, so you will have both graphical and numerical results to consider.!-->
 
 
+
 ## Graphical Results
 <!--Your graph should have a good title, and axes should be labled as needed.  Discuss your graphical results, showing how they answer the research question.  Use specific features of the graph in your discussion.!-->
 
+```{r}
+a <- ggplot(pushups, aes(x=position, y=pushups,))
+a + geom_boxplot()
+```
 
 
 ## Numerical Results
