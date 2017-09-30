@@ -41,6 +41,7 @@ I will make a box plot for the graphical method and use favstats for the numeric
 # Results
 <!--You have both graphical and numerical methods, so you will have both graphical and numerical results to consider.!-->
 
+the numerical and graphical methods will show specific results on the players and how many oushups they have done. uch as the mean, median, and mode. 
 
 
 ## Graphical Results
