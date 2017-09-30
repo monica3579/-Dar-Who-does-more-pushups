@@ -34,7 +34,7 @@ Our Research Question is:
 # Methods
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
-
+i will make a box plot to display the results of the informarion given to determined who does more pushups.
 
 
 
@@ -45,6 +45,7 @@ Our Research Question is:
 
 ## Graphical Results
 <!--Your graph should have a good title, and axes should be labled as needed.  Discuss your graphical results, showing how they answer the research question.  Use specific features of the graph in your discussion.!-->
+
 
 
 ## Numerical Results
