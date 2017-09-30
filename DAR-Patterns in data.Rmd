@@ -51,6 +51,7 @@ a <- ggplot(pushups, aes(x=position, y=pushups,))
 a + geom_boxplot()
 ```
 
+the average number of pushups for the line players was 15, where as the skill players averaged about 45 pushups. 
 
 ## Numerical Results
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
