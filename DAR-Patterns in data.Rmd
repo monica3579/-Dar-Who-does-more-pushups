@@ -28,12 +28,13 @@ Line players are on the offensive or defensive line.  They need to be a certain 
 
 Our Research Question is:
 
-  >Who does more pushups, on average: a line player or a skill player?
-
 
 # Methods
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
-
+```{r}
+a <- ggplot(pushups, aes(x=position, y=pushups,))
+a + geom_col()
+```
 
 
 
