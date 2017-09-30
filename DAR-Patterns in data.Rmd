@@ -28,7 +28,10 @@ Line players are on the offensive or defensive line.  They need to be a certain 
 
 Our Research Question is:
 
-
+  >Who does more pushups, on average: a line player or a skill player?
+ 
+  a skill player on average does more pushups than a line player. 
+  
 # Methods
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 ```{r}
